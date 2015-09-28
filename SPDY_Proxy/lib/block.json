@@ -1,0 +1,10 @@
+{
+  "urls": {
+    "http://54.215.99.68/testsite/images/small_0.jpg": true,
+    "http://twitsper.cs.ucr.edu/daimeng/images/median_1.jpg": true
+  },
+  "regexps": [
+    "http://54\\.215\\.99\\.68/testsite/images/median_[1-3].*",
+    "http://54\\.215\\.99\\.68/testsite/images/small_[1-3].*"
+  ]
+}
